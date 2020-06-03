@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "670572546542",
+    "firebase_url": "https://mangxahoi-b8d4d.firebaseio.com",
+    "project_id": "mangxahoi-b8d4d",
+    "storage_bucket": "mangxahoi-b8d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670572546542:android:3e8703828c456baf15a6ff",
+        "android_client_info": {
+          "package_name": "com.nguyenbatu.doantotnghiep2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670572546542-pin1c7bffs83jck4f20p5v40in3neur7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsGaeYTYATQlkZQlvqDAkzVRmhjUwnyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670572546542-pin1c7bffs83jck4f20p5v40in3neur7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670572546542-h9bqjj2im72gmdb2h2aku4cavtti3n89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nguyenbatu.doantotnghiep2020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -150,10 +150,10 @@ class _StoryState extends State<Story> {
         future: usersRef.document(currentUserId).get(),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (!snapshot.hasData || snapshot.hasError) {
-          return Center(
-            child: CircularProgressIndicator(),
-          );
-        }
+            return Center(
+              child: CircularProgressIndicator(),
+            );
+          }
           User user = User.fromDoc(snapshot.data);
           return Container(
             //height: 180.0,

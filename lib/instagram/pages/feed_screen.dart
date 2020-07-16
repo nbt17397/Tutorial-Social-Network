@@ -84,7 +84,7 @@ class _FeedScreenState extends State<FeedScreen> {
         ),
         elevation: 0.0,
         actions: <Widget>[
-          IconButton(icon: Icon(Icons.camera_alt), onPressed: _iosBottomSheet)
+          IconButton(icon: Icon(Icons.assignment), onPressed: _iosBottomSheet)
         ],
       ),
       body: RefreshIndicator(

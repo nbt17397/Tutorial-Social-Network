@@ -41,7 +41,7 @@ class _ActivityScreenState extends State<ActivityScreen> {
 
   _buildActivity(Activity activity) {
     return FadeAnimation(
-        1.0,
+        0.5,
         Container(
           height: 85.0,
           decoration: BoxDecoration(boxShadow: [
